@@ -1,6 +1,6 @@
 <body>
 <h1>😉 Hi, I’m Akil Parker<h1>
-<hr>
+
 -👨‍🎓Finished my degree in Vellore Institute of Technology- VIT<br>
 -👨‍💻 I’m currently working on 
 <ul>
