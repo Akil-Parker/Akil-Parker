@@ -25,6 +25,9 @@ Java Full Stack Developer with over 2 years of experience in designing and imple
 - Others: Git, Azure Cloud, Oracle and MongoDB 
   
 <p align='center'>You can find me on <a href="https://www.linkedin.com/in/akil-v/" target="_blank">LinkedIn</a></p>
-
+  <ul>
+  <li>You can checkout my resume <a href="Akil's Resume.pdf">Here.</a></li>
+  </ul>
+ 
 <h1 align='center'><i>Stay awesome!</i></h1>
 </div>
