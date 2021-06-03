@@ -13,7 +13,7 @@ I'm Akil.
   <li>SpringBoot,</li>
   <li>Angular.</li>
 </ul>
-<p align='center'>You can find me on <a href="www.linkedin.com/in/akil-v-b2b427144">LinkedIn</a>.</p>
+<p align='center'>You can find me on <a href="https://www.linkedin.com/in/akil-v-b2b427144/">LinkedIn</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 </div>
