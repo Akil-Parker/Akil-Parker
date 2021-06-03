@@ -22,7 +22,7 @@ Java Full Stack Developer with over 2 years of experience in designing and imple
 - Specialties: Java and Angular   
 - Languages: Java, JavaScript, HTML5, CSS3    
 - Framework: Angular, Spring, Express js, Bootstrap, JUnit and Mockito Testing Framework 
-- Others: Git, Azure Cloud, MySQL and MongoDB 
+- Others: Git, Azure Cloud, Oracle and MongoDB 
   
 <p align='center'>You can find me on <a href="https://www.linkedin.com/in/akil-v/" target="_blank">LinkedIn</a></p>
 
