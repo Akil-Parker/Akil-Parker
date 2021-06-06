@@ -21,7 +21,7 @@ Java Full Stack Developer with over 2 years of experience in designing and imple
 - Framework   : Angular, Spring, Express js, Bootstrap, JUnit and Mockito Testing Framework. 
 - Others      : Oracle ,MongoDB ,GitLab and Azure Cloud. 
 
- ## other things about me 🤔
+ ## Other things about me 🤔
  
  ✏ I love watching *anime*.my all time favourite animes are **naruto** and **dbz** and Recently, I got obessed with **aot**🔥 you should watch it if you didn't. <br>
  ✏ And my favourite series are **Firends, TBT, and Suits**. A lot of the time I consider myself as *Harvey Specter* a character from suits😎. <br>
