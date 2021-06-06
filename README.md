@@ -23,7 +23,7 @@ Java Full Stack Developer with over 2 years of experience in designing and imple
 
  ## Other things about me 🤔
  
- ✏ I love watching *anime*.my all time favourite animes are **naruto** and **dbz** and Recently, I got obessed with **aot**🔥 you should watch it if you didn't. <br>
+ ✏ I love watching *anime*.my all time favourite animes are **naruto** and **dbz**.Recently, I got obessed with **aot**🔥 you should watch it if you didn't. <br>
  ✏ And my favourite series are **Friends, TBT, and Suits**. A lot of the time, I consider myself as *Harvey Specter* a character from suits.my favourite dialogue of him. <br>
  > *You want to change your life? Change the way you think.*
 
