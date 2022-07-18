@@ -6,7 +6,7 @@
 
 ### Self Introduction
 
-Java Full Stack Developer with over 2 years of experience in designing and implementing technical solutions and feature improvements for different projects by using Spring Boot and Angular. Adept at end-to-end software design & development including requirement gathering, documentation, infrastructure setup, coding and unit and integration testing. Handles complex Project management and coordination work very efficiently to deliver results.
+Java Full Stack Developer with 3 years of experience in designing and implementing technical solutions and feature improvements for different projects by using Spring Boot and Angular. Adept at end-to-end software design & development including requirement gathering, documentation, infrastructure setup, coding and unit and integration testing. Handles complex Project management and coordination work very efficiently to deliver results.
 <br>
 
 - 👨‍🎓 I Finished my degree in Vellore Institute of Technology<br>
